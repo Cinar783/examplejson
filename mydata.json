@@ -1,1 +1,1 @@
-{"people": [{"name": "Bob", "age": 28, "weight": 80}, {"name": "Ana", "age": 34, "weight": 67}, {"name": "Daniel", "age": 21, "weight": 110}]}
+[{"name": "Bob", "age": 28, "weight": 80}, {"name": "Ana", "age": 34, "weight": 67}, {"name": "Daniel", "age": 21, "weight": 110}]
