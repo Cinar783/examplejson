@@ -1,1 +1,3 @@
-[{"Country": "Türkiye", "Capital City":"Ankara", "Area": 783562},{"Country": "Azerbaycan", "Capital City":"Bakü", "Area": 86600},{"Country":"Rusta","Capital City":"Moskowa","Area":17100000}]
+[{"Country": "Türkiye", "Capital City":"Ankara", "Area": 783562},
+  {"Country": "Azerbaycan", "Capital City":"Bakü", "Area": 86600},
+  {"Country":"Rusya","Capital City":"Moskowa","Area":17100000}]
